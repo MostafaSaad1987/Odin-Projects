@@ -1,1 +1,3 @@
-Projects created while I was taking the Odin Project course.
+# git_test
+
+Hello Odin!
